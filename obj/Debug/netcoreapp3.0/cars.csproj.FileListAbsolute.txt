@@ -1,0 +1,11 @@
+/Users/laurenmaxwell/workspace/CSharp/exercises/cars/bin/Debug/netcoreapp3.0/cars
+/Users/laurenmaxwell/workspace/CSharp/exercises/cars/bin/Debug/netcoreapp3.0/cars.deps.json
+/Users/laurenmaxwell/workspace/CSharp/exercises/cars/bin/Debug/netcoreapp3.0/cars.runtimeconfig.json
+/Users/laurenmaxwell/workspace/CSharp/exercises/cars/bin/Debug/netcoreapp3.0/cars.runtimeconfig.dev.json
+/Users/laurenmaxwell/workspace/CSharp/exercises/cars/bin/Debug/netcoreapp3.0/cars.dll
+/Users/laurenmaxwell/workspace/CSharp/exercises/cars/bin/Debug/netcoreapp3.0/cars.pdb
+/Users/laurenmaxwell/workspace/CSharp/exercises/cars/obj/Debug/netcoreapp3.0/cars.csprojAssemblyReference.cache
+/Users/laurenmaxwell/workspace/CSharp/exercises/cars/obj/Debug/netcoreapp3.0/cars.AssemblyInfoInputs.cache
+/Users/laurenmaxwell/workspace/CSharp/exercises/cars/obj/Debug/netcoreapp3.0/cars.AssemblyInfo.cs
+/Users/laurenmaxwell/workspace/CSharp/exercises/cars/obj/Debug/netcoreapp3.0/cars.dll
+/Users/laurenmaxwell/workspace/CSharp/exercises/cars/obj/Debug/netcoreapp3.0/cars.pdb
